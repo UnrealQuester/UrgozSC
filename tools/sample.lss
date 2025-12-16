@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.8.0">
+    <GameIcon />
+    <GameName>Guild Wars 1</GameName>
+    <CategoryName>Urgoz</CategoryName>
+    <Metadata>
+        <Run id="" />
+        <Platform usesEmulator="False" />
+        <Region />
+        <SpeedrunComVariables />
+        <CustomVariables />
+    </Metadata>
+    <LayoutPath />
+    <Offset>00:00:00.000000000</Offset>
+    <AttemptCount>3</AttemptCount>
+    <AttemptHistory>
+        <Attempt id="1" started="12/16/2025 19:25:29" isStartedSynced="False"
+            ended="12/16/2025 19:26:56" isEndedSynced="False">
+            <RealTime>00:01:27.270600080</RealTime>
+        </Attempt>
+        <Attempt id="2" started="12/16/2025 19:27:49" isStartedSynced="False"
+            ended="12/16/2025 19:28:12" isEndedSynced="False">
+            <RealTime>00:00:22.575999976</RealTime>
+        </Attempt>
+        <Attempt id="3" started="12/16/2025 19:28:16" isStartedSynced="False"
+            ended="12/16/2025 19:28:19" isEndedSynced="False">
+            <RealTime>00:00:03.039899826</RealTime>
+        </Attempt>
+    </AttemptHistory>
+    <Segments>
+        <Segment>
+            <Name>Zone 1 | Weakness</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:00.719899893</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.719899893</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:01:15.734699965</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:02.576100112</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.719899893</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 2 | Life Drain</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:01.023899793</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.303999900</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:01.712100029</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:01.871899843</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.303999900</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 3 | Levers</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:01.247899770</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.223999977</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:01.391800165</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:01.616100073</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.223999977</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 4 | Bridge Wolves</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:01.455899715</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.207999945</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:01.247899770</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:03.327899932</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.207999945</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 5 | More Wolves</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:01.679899692</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.223999977</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:01.151999951</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:02.592000008</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.223999977</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 6 | Energy Drain</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:01.887899875</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.208000183</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:01.104100227</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:02.928100109</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.208000183</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 7 | Exhaustion</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:02.079999923</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.192100048</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:01.055999994</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:01.615999937</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.192100048</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 8 | Pillars</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:02.287999868</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.207999945</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:01.071899891</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:01.727900028</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.207999945</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 9 | Blood Drinkers</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:02.463899851</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.175899983</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:00.960100174</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:01.408100129</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.175899983</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 10 | Bridge</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:02.671999931</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.208100080</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:00.991899729</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:01.279999971</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.208100080</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+        <Segment>
+            <Name>Zone 11 | Urgoz</Name>
+            <Icon />
+            <SplitTimes>
+                <SplitTime name="Personal Best">
+                    <RealTime>00:00:03.039899826</RealTime>
+                </SplitTime>
+            </SplitTimes>
+            <BestSegmentTime>
+                <RealTime>00:00:00.367899895</RealTime>
+            </BestSegmentTime>
+            <SegmentHistory>
+                <Time id="1">
+                    <RealTime>00:00:00.848100185</RealTime>
+                </Time>
+                <Time id="2">
+                    <RealTime>00:00:01.631899834</RealTime>
+                </Time>
+                <Time id="3">
+                    <RealTime>00:00:00.367899895</RealTime>
+                </Time>
+            </SegmentHistory>
+        </Segment>
+    </Segments>
+    <AutoSplitterSettings />
+</Run>
